@@ -1,2 +1,2 @@
-# feodororg.github.io/2
+# [test](feodororg.github.io)
 test site
